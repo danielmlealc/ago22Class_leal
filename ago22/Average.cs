@@ -11,7 +11,7 @@ namespace ago22
         /// <summary>
         /// 
         /// </summary>
-        public static void ejecutarEjercicio()
+        public static void EjecutarEjercicio()
         {
             Console.WriteLine("Ingrese el primer número: ");
             int firstNumber = Convert.ToInt32(Console.ReadLine());

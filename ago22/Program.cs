@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Average.ejecutarEjercicio();
+            Average.EjecutarEjercicio();
         }
     }
 }
